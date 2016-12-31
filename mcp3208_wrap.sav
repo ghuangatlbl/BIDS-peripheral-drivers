@@ -1,0 +1,27 @@
+[size] 1000 600
+[pos] 9 45
+*-9.159287 372225 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] mcp3208_wrap_tb.
+[treeopen] mcp3208_wrap_tb.dut.
+@22
+mcp3208_wrap_tb.address[3:0]
+mcp3208_wrap_tb.result[7:0]
+@28
+mcp3208_wrap_tb.adc_cs
+mcp3208_wrap_tb.adc_clk
+@200
+-wrap
+@22
+mcp3208_wrap_tb.dut.result16[15:0]
+mcp3208_wrap_tb.dut.save16[15:0]
+@28
+mcp3208_wrap_tb.dut.adc_trig
+@24
+mcp3208_wrap_tb.dut.chan_sel[2:0]
+@22
+mcp3208_wrap_tb.dut.mcp_data[15:0]
+@28
+mcp3208_wrap_tb.dut.adc_trig1
+@24
+mcp3208_wrap_tb.dut.chan_prev1[2:0]
+mcp3208_wrap_tb.dut.chan_prev2[2:0]

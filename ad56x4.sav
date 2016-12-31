@@ -1,0 +1,31 @@
+[timestart] 0
+[size] 1228 592
+[pos] 93 27
+*-10.923320 1430 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] ad56x4_tb.
+[sst_width] 210
+[signals_width] 142
+[sst_expanded] 1
+[sst_vpaned_height] 151
+@28
+ad56x4_tb.strobe
+ad56x4_tb.chip_csb
+ad56x4_tb.chip_sclk
+@800028
+ad56x4_tb.chip_sdio[2:0]
+@28
+(0)ad56x4_tb.chip_sdio[2:0]
+(1)ad56x4_tb.chip_sdio[2:0]
+(2)ad56x4_tb.chip_sdio[2:0]
+@200
+-driver4
+@28
+ad56x4_tb.mut.sdac_pend
+@24
+ad56x4_tb.mut.sdac_cnt[4:0]
+@28
+ad56x4_tb.mut.ref_sclk
+@1001200
+-group_end
+[pattern_trace] 1
+[pattern_trace] 0

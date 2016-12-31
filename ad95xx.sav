@@ -1,0 +1,14 @@
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-10.297118 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 210
+[signals_width] 102
+[sst_expanded] 1
+[sst_vpaned_height] 154
+@28
+ad95xx_tb.chip_csb
+ad95xx_tb.chip_sclk
+ad95xx_tb.chip_sdio
+[pattern_trace] 1
+[pattern_trace] 0

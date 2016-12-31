@@ -1,0 +1,15 @@
+[timestart] 0
+[size] 1207 593
+[pos] -1 -1
+*-17.912800 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 210
+[signals_width] 94
+[sst_expanded] 1
+[sst_vpaned_height] 152
+@28
+sporta_tb.SCK
+sporta_tb.SDI
+sporta_tb.CS_7794
+sporta_tb.SDO_7794
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,31 @@
+[timestart] 0
+[size] 1162 591
+[pos] -1 -1
+*-16.727699 605 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 210
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 151
+@28
+mcp3208_tb.trigger
+mcp3208_tb.clk
+@24
+mcp3208_tb.mut.ucnt[5:0]
+@28
+mcp3208_tb.mut.tick
+mcp3208_tb.mut.run
+@24
+mcp3208_tb.mut.state[5:0]
+mcp3208_tb.mut.channel[2:0]
+@22
+mcp3208_tb.mut.in_reg[11:0]
+@28
+mcp3208_tb.CLK
+mcp3208_tb.DIN
+mcp3208_tb.DOUT
+@22
+mcp3208_tb.ic.conf[4:0]
+@28
+mcp3208_tb.ic.CS
+[pattern_trace] 1
+[pattern_trace] 0
